@@ -1,0 +1,19 @@
+.user-photos-container {
+  overflow-y: auto;
+  height: 100%;
+}
+
+.photo-card {
+  margin-bottom: 20px;
+}
+
+.comment-author-link {
+  text-decoration: none;
+  color: #1976d2;
+  font-weight: bold;
+}
+
+.comment-author-link:hover {
+  text-decoration: underline;
+}
+
